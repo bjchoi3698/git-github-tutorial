@@ -1,1 +1,4 @@
 1st file @Files
+
+This file is udpated in order to practice Git in VSCode
+Hooray!
